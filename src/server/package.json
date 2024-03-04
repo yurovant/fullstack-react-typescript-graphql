@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript-graphql--server",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node-dev index.ts"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "0.12.0",
+    "graphql": "15.3.0",
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.9"
+  }
+}

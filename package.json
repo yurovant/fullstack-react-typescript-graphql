@@ -1,0 +1,14 @@
+{
+  "name": "react-typescript-graphql--main",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "prettier --write '**/*.{ts,tsx}'",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3"
+  }
+}

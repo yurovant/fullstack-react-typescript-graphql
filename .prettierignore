@@ -1,0 +1,2 @@
+# Ignore generated GraphQL-related files
+**/generated/*.ts
